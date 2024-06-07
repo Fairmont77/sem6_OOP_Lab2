@@ -1,0 +1,16 @@
+.patron-list {
+  text-align: center;
+}
+
+.patron-list ul {
+  list-style: none;
+  padding: 0;
+}
+
+.patron-list ul li {
+  margin: 10px 0;
+}
+
+.patron-list ul li button {
+  margin-left: 10px;
+}

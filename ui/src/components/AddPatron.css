@@ -1,0 +1,20 @@
+.add-patron {
+  text-align: center;
+}
+
+.add-patron form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.add-patron form input {
+  margin: 5px 0;
+  padding: 10px;
+  width: 200px;
+}
+
+.add-patron form button {
+  margin-top: 10px;
+  padding: 10px 20px;
+}
